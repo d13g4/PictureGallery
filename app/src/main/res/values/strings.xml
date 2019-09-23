@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PictureGallery</string>
+    <string name="start_slideshow">Slideshow</string>
+    <string name="show_gallery">Show Gallery</string>
 </resources>
